@@ -2,6 +2,8 @@
 
 import feedparser
 import re
+import os
+import time
 
 #China Digital Times
 a = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
@@ -9,8 +11,11 @@ a = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
 for post in a.entries:
 	d = post.published_parsed
 	t = post.title+'.txt'
-	c = re.sub(r'\\n', '\n', str(post.summary))
-	f = open(str(d[0])+'-'+str(d[1])+'/'+t, "w+")
-	f.write(re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|&nbsp;|&copy(.*\n)*|Feed.*", '', c))
+	c = re.sub(r'\\n', '\n', str(post.content))
+	p = str(time.strftime("%Y-%m", d))
+	if not os.path.exists(p):
+		os.makedirs(p)
+	f = open(p+'/'+t, "w+")
+	f.write(re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|The post.*\}\]", '', c))
 	f.close()
 
