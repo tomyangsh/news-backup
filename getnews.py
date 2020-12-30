@@ -10,8 +10,8 @@ a = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
 
 for post in a.entries:
 	d = post.published_parsed
-	t = post.title+'.txt'
-	c = re.sub(r'\\n', '\n', str(post.content))
+	t = post.title+'.md'
+	c = re.sub(r'\\n', '\n\n', str(post.content))
 	p = str(time.strftime("%Y-%m", d))
 	if not os.path.exists(p):
 		os.makedirs(p)
