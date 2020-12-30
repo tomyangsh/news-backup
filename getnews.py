@@ -12,10 +12,12 @@ for post in a.entries:
 	d = post.published_parsed
 	t = post.title+'.md'
 	c = re.sub(r'\\n', '\n\n', str(post.content))
+	e = re.sub('<img alt="图片" class="aligncenter" src="', '![GitHub](', c)
+	g = re.sub(r'" width=.*?/>', ')', e)
 	p = str(time.strftime("%Y-%m", d))
 	if not os.path.exists(p):
 		os.makedirs(p)
 	f = open(p+'/'+t, "w+")
-	f.write(re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|The post.*\}\]", '', c))
+	f.write(re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|The post.*\}\]", '', g))
 	f.close()
 
