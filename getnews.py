@@ -12,7 +12,7 @@ for post in a.entries:
 	d = post.published_parsed
 	t = post.title+'.md'
 	c = re.sub(r'\\n', '\n\n', str(post.content))
-	e = re.sub('<img alt="图片" class="aligncenter" src="', '![GitHub](', c)
+	e = re.sub(r'<img.*?src="', '![GitHub](', c)
 	g = re.sub(r'" width=.*?/>', ')', e)
 	p = str(time.strftime("%Y-%m", d))
 	if not os.path.exists(p):
