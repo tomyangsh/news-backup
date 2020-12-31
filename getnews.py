@@ -13,7 +13,7 @@ for post in a.entries:
 	t = post.title+'.md'
 	c = re.sub(r'\\n', '\n\n', str(post.content))
 	e = re.sub(r'<img.*?src="', '![GitHub](', c)
-	g = re.sub(r'" width=.*?/>', ')', e)
+	g = re.sub(r'" .*?/>', ')', e)
 	p = str(time.strftime("%Y-%m", d))
 	if not os.path.exists(p):
 		os.makedirs(p)
