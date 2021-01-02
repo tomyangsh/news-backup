@@ -18,6 +18,6 @@ for post in a.entries:
 	if not os.path.exists(p):
 		os.makedirs(p)
 	f = open(p+'/'+t, "w+")
-	f.write(re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|The post.*\}\]", '', g))
+	f.write('# '+post.title+'\n\n'+time.strftime("%Y-%m-%d", d)+'\n\n'+re.sub(r"\[\{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes\.net/chinese/feed/', 'value': '|<.*?>|The post.*\}\]", '', g))
 	f.close()
 
