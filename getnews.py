@@ -10,7 +10,7 @@ a = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
 
 for post in a.entries:
 	d = post.published_parsed
-	t = post.title+'.md'
+	t = re.sub(r'\/', '', post.title)+'.md'
 	c = re.sub(r'\\n', '\n\n', str(post.content))
 	e = re.sub(r'<img.*?src="', '![GitHub](', c)
 	g = re.sub(r'" .*?/>', ')', e)
