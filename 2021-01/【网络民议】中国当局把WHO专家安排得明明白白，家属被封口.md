@@ -36,11 +36,9 @@
 
 WHO新冠溯源团队在武汉开始实地考察 前往医院和抗疫成就展
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/01/post-662189-60158336e343e.) 
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/01/post-662189-60158336e343e.)
 
 世卫组织溯源团队成员参观抗疫成就展。图像来源，Reuters  
-
-
 
 世界卫生组织（WHO）新冠病毒溯源小组在武汉完成隔离后，于周五和周六分别前往接诊疫情早期病人的两家医院，并参观武汉的抗疫成就宣传展。
 
