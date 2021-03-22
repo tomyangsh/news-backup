@@ -1,17 +1,15 @@
 # 【CDT推荐】本周推荐媒体
 
-2021-03-15
+2021-03-22
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '香港媒体：立场新闻
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '推特账号：中国文字狱事件盘点
 
-推荐理由：有立场亦有事实，有专家亦有公众。香港抗争时代的良知媒体。
+推荐理由：持之以恒地记录近年中国因言获罪案件。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/03/立场新闻-1024x538.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/03/nlxNl8eD_400x400.jpg)
 
-立场新闻2020年7月1日社论
+推特“中国文字狱事件盘点”题图
 
-Youtube账号：无名的小雷
+播客：小声喧哗 Lound Murmurs
 
-推荐理由：闲聊中美日常生活中的政治，趣味十足，颇有见地。
-
-'}]
+四位女性眼中的电影里的女性角色，观察和批判世界如何被塑造。'}]
