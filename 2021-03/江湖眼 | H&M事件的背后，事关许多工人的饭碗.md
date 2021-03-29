@@ -4,7 +4,7 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '2021年3月24日，在中国与欧盟因“新疆问题”在3月22日发生外交纠纷两天之后。共青团中央官微挖出瑞典时装品牌H&amp;M公司于2020年10月发表的一则声明，引发对H&amp;M, 以及耐克、阿迪达斯、巴宝莉、优衣库等一批国际著名时装品牌的网络攻击。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/ic97ufPeqKhZOReKU6gHL9LicfxEkOAwsEZ5063YlVCY3iaMWDVU3j0mnDibYgYIMgCDAuQGaVYNBb4VmsawPAv6wQ/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/03/post-664125-6061530e3ba1c.)
 
 其实，西部所谓“强迫劳动问题”早在2020年7月就已经在西方世界引起广泛关注，美国和欧盟都先后出台法案，要求其企业在进口商品时必须对供应链进行尽职调查，以确保其商品与所谓“强迫劳动”没有关系。
 
@@ -16,7 +16,7 @@ H&amp;M等公司发表的声明，本来是为遵从其所在国法律和海关�
 
 但有人在中国与欧盟发生外交纠纷的时刻，故意把火从政治和外交领域引向经贸领域，企图升级中国与欧盟的冲突，其用意实在令人难以琢磨。3月25日，李总理在南京视察时，特意到访德国企业巴斯夫，起到了稳定欧美企业人心的作用。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/ic97ufPeqKhZOReKU6gHL9LicfxEkOAwsENxLxKiavfxMmym0Ax9ZNFSmqzH5wlx7Z1ULlPo6LwMUj2weibEdRCyNQ/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/03/post-664125-60615310a2777.)
 
 3月25日，李总理到访位于南京的德国企业巴斯夫，巴斯夫也是耐克、阿迪达斯的重要供应商。
 
@@ -24,7 +24,7 @@ H&amp;M等公司发表的声明，本来是为遵从其所在国法律和海关�
 
 因此，在西方品牌公司那里，H&amp;M的声明，只是供应链风险控制的一种常规操作。如果你认真翻查，可以发现几乎所有的欧美日大品牌和大超市都有类似的问题。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/ic97ufPeqKhZOReKU6gHL9LicfxEkOAwsEj5ibPJT2iaRjSx5v30GvsjD6aoND4jKTzoKpEWs2C8FM0iamwicKNBm17w/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/03/post-664125-606153127bff5.)
 
 “新疆棉”是一个复杂的政治和外交问题，应该通过政治和外交的途径去解决，而不应该归罪于个别企业，更不应把“怒火”引向经贸领域，因为那样必然会反弹回来，伤及我们中国的企业和员工。
 
