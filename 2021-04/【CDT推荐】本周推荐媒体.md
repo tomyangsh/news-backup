@@ -2,7 +2,7 @@
 
 2021-04-07
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '推特账号：中国文字狱事件盘点
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '推特账号：Free Chen Guojiang 关注盟主
 
 推荐理由：关注被失踪的维权人士“外卖骑士联盟盟主”陈国江
 
