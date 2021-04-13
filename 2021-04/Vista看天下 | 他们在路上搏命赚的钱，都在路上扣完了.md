@@ -4,7 +4,7 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '作者：指听
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37KKicNHrgSFkjsFwg8aoQicibicjzxZNjGIYKT9SySym5IvJ1vdZvgTZ1Xw/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075616cc1861.png)
 
 纪录片《颠簸货运路》
 
@@ -16,7 +16,7 @@
 
 留下原本指望他养活的一家老小。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37LeMI2ouZLUzprvwibMPibaAKibja9rTM6ic6uFxJF5WLsibAhm5JMkwoLaw/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075616f5ebaf.png)
 
 有旁观的网友惊讶于，2000块钱的罚款就能成为压倒卡车司机的最后一根稻草。
 
@@ -40,7 +40,7 @@
 
 跑一趟几千块的运费流水看似可观，但是除去高速费、油费、车辆维护、跟车人工等硬性成本，到手的收入实在不算多。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37C0ZEeqlZqBZTWib4uf0XpGPrUqbusrRRBiaqp28lBPPgWhSt4KJGEFGw/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-607561718f9f7.png)
 
 一年净收入12万，这还不算买车本身的成本。
 
@@ -56,7 +56,7 @@
 
 有一次，她不到7点就早起去另一个城市拉货。开了100多公里抵达取货地点，突然被货主通知：因为买卖双方的货款还没谈拢，现在没办法装货。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_gif/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37AM31dNLRM7EuWQksibEsfFadTUkVWvKPiacGFJ9nZU0k7x7KCg8F89xQ/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075617abddff.gif)
 
 开回去吧，这往返油钱就白费了；不开回去，这片区域过于偏僻又拉不到什么别的活。
 
@@ -74,7 +74,7 @@
 
 今年2月份，有货车司机夜里进入服务区时遭到保安驱赶，他当时强调的就是“我疲劳驾驶了”。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37gRXIRCjE9M9pPTCZk9ukoCCMdGfm5tiaOfacUu0FdUbs2ds9ZjDKLiaQ/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075617d08c47.png)
 
 在服务区看来，节后高峰期导致停车位紧张，阻止大车进入是合理的。
 
@@ -90,7 +90,7 @@
 
 倩姐有次在某个服务区，还拍到旁边的卡车后轮上栓了两只狼狗。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37yxkBKqbAy9ylAnSrodp5LsGCjTicmTicanDbFhNKlSqGAPVicJLfSiahDQ/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075617fa9fae.png)
 
 “油耗子怕狼狗叫就不敢偷了，让人能稍微睡个好觉。”
 
@@ -104,13 +104,13 @@
 
 结果电话对面被逼急了，直接使出了杀手锏：“现在肯定是卸不了的，你要是着急那你把货拉回自己家里好了。”
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH375nzf05iakrdcAIBNPY4Zwxhst2qVibYlEVQzCiaEgJtMozaNWD9sGyNibg/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-60756182e7d00.png)
 
 即使说到这个份儿上，第二天接到卸货通知时，倩姐还是连牙都来不及刷就赶过来了。
 
 “老板说不赶快过来的话，他那个吊车就要开走了，就卸不了货了。”
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_gif/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37ZhRw6E65tR3BLwaH9lCiawtpMyrK013BR62uSJ418OEgQAicXGy71kaA/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075618a85376.gif)
 
 对货车司机来说，时间真的就是金钱。于是在遇到不合理的待遇时，最后通常都是妥协。
 
@@ -126,7 +126,7 @@
 
 倩姐曾拍过一个小短剧，镜头外的“装卸工人”让她要么搭把手要么给条烟，她给出的应对方式是“你爱卸不卸”；
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37FTdsyM9eBicc5pZ8bibAT5Fib0nl8NGR08hOic3uhib5bLovGSibtSK8yd8g/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075618d83da5.png)
 
 但从评论区的反馈来看，大多卡车司机在遇到这种情况时还是会选择“破财免灾”。
 
@@ -138,11 +138,11 @@
 
 有开了30年车的老师傅提到，如今油价、路费都在涨，可自己跑一趟的收入比二十年前还要低。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_gif/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37656CW5aAZl0SDV8tTh1FI8GF0qILMokwcYf3iaFBvdN3tQqYwkH0L2A/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075619548e21.gif)
 
 评论中也有人直言：自己放弃开货车不是因为怕辛苦，而是起早贪黑却赚不到什么钱。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37PhsgBr6HY9iaGAvpliaTMyqJPmoXpp39vPebRlqdlgHKSrhicyA3DIEfw/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075619705bd7.png)
 
 运费低的第一个原因，是互联网平台的进驻。
 
@@ -154,7 +154,7 @@
 
 而他因为几天没有拉到活了，只能妥协。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_gif/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37vq9hU0gN6vomdoibsYq66UyxsEs0dyOyjpoM4l9iaQdpxv00hnia1GSUw/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075619ba4473.gif)
 
 尤其是那些拉货过来后准备折返的“回程车”，能把价格压到更低——反正车空着也是空着，还不如报个低价，至少把油钱赚回来。
 
@@ -168,7 +168,7 @@
 
 但贷款买车的车主们也有自己的苦衷——一个月1万多的贷款，跑活赔本，不跑赔的更多。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH374zA2H82ic6b1JRvKw93XfAnVMtdV6OG9Rb9hOFHY9pMYnIJkiaMpudiag/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-6075619e24de1.png)
 
 有些货车司机为了多挣点运费，选择去跑“绿通”。
 
@@ -226,7 +226,7 @@
 
 运费下降、规则收紧也不过是这几年的事，但足以把这些司机们困在了一个两难的境遇里。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_png/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH37qNF6ufxburia2JpLaYbyd77PicmhYhOJwXqTHJo1yJFny6QLYm9peZew/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-607561a0a9436.png)
 
 尤其是对于那些贷款买车的人，每天睁开眼睛就欠着钱，只能靠跑活尽量赚回成本。
 
@@ -236,7 +236,7 @@
 
 嫌疑人卢某靠伪装货源中介，成功地骗到了20多个司机的信息费。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/8S67SzX3z3DKDa7xKfZxmTRrhUic9mH371xSuKDRj8DPV5fkCQ9IKrUlF0UqfmJVT5RICuq6MREGr1WQ6sfM4bg/640)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/04/post-664801-607561a284493.)
 
 而他的骗术其实很简单——在微信或者APP上发布虚假载货信息，在收到货车司机转账后直接将对方拉黑。
 
