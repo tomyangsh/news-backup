@@ -2,7 +2,7 @@
 
 2021-04-20
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '编者按：本文为公众号“回声Huisheng”原创首发，回声公众号被禁言至5月1日。回声持续关注近期女权主义者遭遇大规模网络暴力的事件，并发布系列文章，聚焦于风暴中心的女权主义者。本文为该系列第二篇。第一篇见：[网暴中心的女权者：“人不应该生活在这样的世界”](https://mp.weixin.qq.com/s?__biz=MzUzMTk0ODgwOQ==&amp;mid=2247486689&amp;idx=1&amp;sn=6852476aff4d9980e07a50a645fa6afc&amp;chksm=fabbf887cdcc7191850ff8d5485e5baf271e356665fe6d86776858e7ee1ebd7152461ecfbd84&amp;mpshare=1&amp;scene=21&amp;srcid=0418s3MiwawKJsqj4097NpPJ&amp;sharer_sharetime=1618716497980&amp;sharer_shareid=e138995d7e8ebd21fb7068d0c669338c&amp;exportkey=A o9Y8wUoy9L4PZqj0RZQZw=&amp;pass_ticket=rjCXWyAHJ2nUEFQPSgkJI/aR21gbvkd6d6sexxcuI1NBRV1rWZT/LER9m/oGiT57&amp;wx_header=0#wechat_redirect)
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '编者按：本文为公众号“回声Huisheng”原创首发，回声公众号被禁言至5月1日。回声持续关注近期女权主义者遭遇大规模网络暴力的事件，并发布系列文章，聚焦于风暴中心的女权主义者。本文为该系列第二篇。第一篇见：网暴中心的女权者：“人不应该生活在这样的世界”
 
 
 
