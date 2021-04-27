@@ -4,7 +4,7 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
-请点击图片进入YouTube观看
+请点击图片进入YouTube观看（视频有年龄限制，仅能在YouTube主站观看）
 
 维基百科：
 
