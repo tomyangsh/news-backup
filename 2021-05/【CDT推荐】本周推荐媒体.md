@@ -1,19 +1,19 @@
 # 【CDT推荐】本周推荐媒体
 
-2021-05-05
+2021-05-12
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '维权媒体：中国劳工通讯
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '推特账号：MHZ-512DAY @12138963546f
 
-推荐理由：至少在五一假期这一周，你要读读中国劳工通讯。更何况，在纪念争取八小时工作天的节日里，我们在中国目睹历史的倒退。
+推荐理由：每日公布逢当天生日的512地震死难学生名单。 #512birthday
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/05/823744.jpg)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/05/E1HtNT-VIAU5VyM.jpg)
 
-《中国劳工通讯》报道图片
+推特账号MHZ-512DAY @12138963546f图片
 
 
 
-微信公众号：秦川雁塔
+开放平台：端点星
 
-推荐理由：秦晖教授和金雁教授的文章发布平台。博学，审问，慎思，明辨，笃行——中国一代学人中，鲜有出其右者。
+推荐理由： Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。该平台两位志愿者陈玫与蔡伟因此被捕受审。即便停止更新了，404文章也值得读者反复回顾。
 
 往期 CDT推荐媒体 '}]
