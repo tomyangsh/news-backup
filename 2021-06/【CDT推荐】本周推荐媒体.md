@@ -2,23 +2,13 @@
 
 2021-06-02
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'Telegram频道：看鉴中国
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'Facebook专页：六四纪念馆
 
-推荐理由：看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。
-
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/IMG_20210601_102917_053-1024x1024.jpg)
-
-看鉴中国文章导语。
-
-
-
-Facebook专页：六四纪念馆
-
-推荐理由：2021年是“六四”32周年，为此，“六四纪念馆”于2021年5月30日下午2时起，重新开放。
+推荐理由：32周年纪念日，香港六四纪念馆被迫暂时关闭。请访问该纪念馆的Facebook专页。
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/六四纪念馆截图-1024x681.png)
 
-六四纪念馆专页截图。
+六四纪念馆专页截图
 
 
 
@@ -28,4 +18,8 @@ Facebook专页：1989年的传真
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/190849717_1778936588967612_8968159069088740580_n-1024x694.jpg)
 
-《1989年传真》发布的图片。'}]
+《1989年传真》发布的图片
+
+
+
+往期 CDT推荐媒体 '}]
