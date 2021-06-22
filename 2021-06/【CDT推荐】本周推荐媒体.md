@@ -1,25 +1,19 @@
 # 【CDT推荐】本周推荐媒体
 
-2021-06-02
+2021-06-22
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'Facebook专页：六四纪念馆
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '日报：苹果日报
 
-推荐理由：32周年纪念日，香港六四纪念馆被迫暂时关闭。请访问该纪念馆的Facebook专页。
+推荐理由：旗帜鲜明的政治异议媒体、近年港媒公信力唯一上升的报纸《苹果日报》，高层骨干被抓捕，营运资金被冻结，高压之下可能在近日停刊。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/六四纪念馆截图-1024x681.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/FSPTe83u.jpg)
 
-六四纪念馆专页截图
-
-
-
-Facebook专页：1989年的传真
-
-推荐理由：1989年5月及6月的传真，虽然热感传真纸早已褪色，却记录了香港学联与北上声援同学、海外中外人士、香港市民、各大传媒的信息往来。
-
-![GitHub](https://chinadigitaltimes.net/chinese/files/2021/06/190849717_1778936588967612_8968159069088740580_n-1024x694.jpg)
-
-《1989年传真》发布的图片
+一份得到广泛支持的媒体可能被迫停刊
 
 
+
+抗争媒体：时代透镜
+
+推荐理由：每一个时间点上，都在发生记忆与遗忘的斗争。该网站在谈到自己的使命时说，希望通过回忆让人们记住历史，不被愚弄。
 
 往期 CDT推荐媒体 '}]
