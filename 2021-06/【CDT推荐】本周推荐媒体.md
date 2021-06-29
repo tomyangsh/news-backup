@@ -2,7 +2,7 @@
 
 2021-06-28
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '脸书专页：vawongsir
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'Facebook专页：vawongsir
 
 推荐理由：香港被清算的中学通识及视艺课老师，现“跪求揾两餐晏仔，卖画求存”。而他的漫画，记录了拒绝向权力下跪的香港人的故事。
 
