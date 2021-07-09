@@ -8,7 +8,7 @@
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2021/07/12111.jpg)
 
-“厌女文化抵制者”转发文章插画
+“厌女文化抵制者”转发文章插画。作者：ペス山ポピー
 
 
 
