@@ -24,8 +24,6 @@
 
 执勤交警回应“叫谁过来都没用”。
 
-![GitHub](https://mmbiz.qpic.cn/mmbiz_gif/mHvPQibgPEl57SOic5U0gMElybiboWndN2JST4YVgwkxoJn0EzLm07CkUcEqpCMCoM3Z7ia8GloCXSCB03F9ECRThA/)
-
 后来，当地发布通告，说6个叫“yu wei”的领导，均声称不认识该女子。
 
 不过，该女子的身份，倒是很快被网友扒出来了。
