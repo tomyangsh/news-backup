@@ -6,6 +6,26 @@
 
 艺术作品“非必要不出笼”
 
+以下为公众号“导筒现场”发表的现场照片。
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejXIhpSFeJNicTj90CyLIJ4Vm9C0x28RCthKwDBDrO9RvsPUExEPyYZlJg/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejX9BhuSj1ywupIWAaQppvlIic5iaGbcPp0dia0g3XeJg4aqIfh94U3FHkUA/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejXX9XjhPvM0VicEq48ntG5q23OuK9DAOJaV8F1rOXMeMGo8cEzGBFibbSg/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejX0xXKiaUA8ibg0icgic8hUKBlcicHDTNb7ibBezxmgiaT2Wiaur2MUxCagB3OaQ/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejX9BhuSj1ywupIWAaQppvlIic5iaGbcPp0dia0g3XeJg4aqIfh94U3FHkUA/640)**
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejXFqib7tZW0YibxZKHyiciatmk2qiaMYvByjtOaXcJHNWibe4oic5EGxII7hz6A/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejXGaRAjykBMGZDTLNjDznic6YFwATD0Bsib8IWyicfHk5CU6NhibcoQTBMlw/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejX0eJxr1JJbOPr71HF9ol7a9EfBR6Ms8nibiarT8cnyApBMiaDXaAphxuIg/640)
+
+![GitHub](https://mmbiz.qpic.cn/mmbiz_jpg/t0bVriax1e2BkfkbiaItHtUp3IKtfjZejXEXpV3CxdVrUXabjCfXeQekHibIA3RbRTnoB7IuMicHXtpmVwLCB9ibcLg/640)
+
 据《关于北京电影学院封校的思考及建议》透露，同在北京海淀区的大部分高校都没有实行像北电般严格的进出校园管理政策，而北电学生出校需要向辅导员或各系党支部书记申请，但“必要”和“非必要”的标准含混不清，审批与否“随管理人员的心意”。建议有批评该政策侵犯了学生的隐私，并且激化了师生矛盾。
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2021/11/1.jpg)
