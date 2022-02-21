@@ -2,7 +2,9 @@
 
 2022-02-20
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '![GitHub](https://chinadigitaltimes.net/chinese/files/2022/02/post-677200-621223fa3af50.)
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '中国数字时代有关“徐州八孩母亲” 文章总汇
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/02/post-677200-621223fa3af50.)
 
 《从零开始的女性主义》是日本著名女性主义研究学者、社会学教授上野千鹤子与田房永子关于女性主义的对谈录，一个是未婚的女权斗士，一个是已婚但是羞于表达自己女性主义观点的漫画家，两人从女性主义的内涵、历史，谈到以女性主义的角度思考日常生活。
 
