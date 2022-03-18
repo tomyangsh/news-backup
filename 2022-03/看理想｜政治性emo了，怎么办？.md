@@ -1,10 +1,8 @@
 # 看理想｜政治性emo了，怎么办？
 
-2022-03-16
+2022-03-18
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '作者：苏有若、苏小七 / 看理想（Weixin ID：ikanlixiang ）
-
-“毁灭吧，赶紧的，累了”，是最近经常出现的一句话。
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '“毁灭吧，赶紧的，累了”，是最近经常出现的一句话。
 
 疫情、战争、女性权益、人身伤害事件，个体遭遇的痛苦与不公被直接摆在我们眼前，难免让人感到愤怒、难过和焦虑。
 
@@ -14,9 +12,9 @@
 
 今天，我们就来好好聊一聊当下蔓延的“政治性抑郁”。一篇文章无法提供对症下药的药物，但希望通过这次的梳理和讨论，能够让你获得一些共情、力量和希冀。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-623245507e426.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-623465fa39140.png)
 
-01. 时代与现实，让我们无法逃离
+01.时代与现实，让我们无法逃离
 
 当下，互联网让信息获取变得前所未有的容易，也就更加能实时地影响我们的情绪。
 
@@ -34,7 +32,7 @@
 
 公共事务、新闻政治带来了巨大无力感和孤独感，让人大部分时间里持续感到情绪低落或烦躁，并有悲伤、空虚或绝望的想法和感受时，那很可能遭遇了“政治性抑郁”（political depression）的情绪。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-62324550a0bee.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-623465fd7e9c6.png)
 
 《乡愁》
 
@@ -54,7 +52,7 @@
 
 同时，因为他们很难用自我膨胀的姿态面对世界，也减少了许多“兴高采烈”的感受。换言之，他们往往拥有谦虚的美德，经常自我反思与自我怀疑。
 
-02. 该如何面对政治性抑郁的情绪？
+02.该如何面对政治性抑郁的情绪？
 
 正在爆发的俄乌战争，被称为是“短视频时代”以来的第一场大规模战争。跟以往相比，死亡、灾难甚至核威慑等残酷的实时战况，如同瀑布一般推送到我们眼前，消息鱼龙混杂，种种对立、激烈的情绪也都被挑动起来。
 
@@ -66,7 +64,7 @@
 
 “而合理分配自己的注意力，则是这个年代每个人都要学会的事情”，在这篇通讯文章最后，方可成写到。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-62324550b28e7.)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-623465ffafc40.)
 
 《铁皮鼓》
 
@@ -84,7 +82,7 @@
 
 同抑郁症一样，政治性抑郁也常常不被理解和正视，被认为“想得太多”“总喜欢看负面”，招致“杞人忧天”的评价。不被理解的孤独感，往往加重了受这种情绪困扰的人的自我怀疑。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-62324550bc06e.)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-623466018b68c.)
 
 《幻梦墓园》
 
@@ -106,7 +104,7 @@
 
 这时候，不如把关注点暂时从问题上移开，专注于做一些在广泛意义上更有益的事情。你会发现，只要行动起来，即便它并不针对现存的某个问题，但也一定会像流动的水一样，汇集到生活的方方面面。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-62324550c7c81.)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-62346603bf2eb.)
 
 《樱桃的滋味》
 
@@ -144,7 +142,7 @@
 
 就像要治疗身体疾病，除了用药之外，还需增强自身的免疫力。我们的情绪缓解，也可以通过这样长期的行为实践，一次次给肌体注入新的感知，从而不断获得来自生命本身的力量。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-62324550e667f.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-6234660715605.png)
 
 《乡愁》
 
@@ -168,7 +166,7 @@
 
 这个时代的政治性抑郁，不仅仅是以个体有限的行动力，面对未来巨大的恐惧与不确定性；更是因为我们在诸多观念之中，时常面临无所适从的窘迫，甚至找不到可以栖息的思想锚点。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-6232455103cab.)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-623466092df3c.)
 
 《乡愁》
 
@@ -198,7 +196,7 @@
 
 政治学者刘瑜在一个讲座上表达过类似的感受：如果以理想为尺度衡量现实，当然会觉得很糟糕；但如果以历史为尺度来看待现实，你就会觉得，“还可以”。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678272-6232455115aeb.)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/03/post-678305-6234660b50c69.)
 
 《永恒和一日》
 
