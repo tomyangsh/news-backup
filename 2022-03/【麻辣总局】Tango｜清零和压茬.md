@@ -2,7 +2,9 @@
 
 2022-03-31
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': ' 文章总汇：上海疫情
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'CDT编者按：该漫画来自电报读者匿名投稿，作者为知名插画师 @tango2010。
+
+ 文章总汇：上海疫情
 
 
 
