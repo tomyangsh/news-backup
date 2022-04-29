@@ -16,7 +16,7 @@ CDT 档案卡
 
 主题归类：<a href="https://chinadigitaltimes.net/chinese/tag/%e4%b8%8a%e6%b5%b7%e7%96%ab%e6%83%85)
 
-CDS收藏：<a href="https://chinadigitaltimes.net/space/%E7%9C%9F%E7%90%86%E9%A6%86)
+CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E8%A1%8C%E5%8A%A8%E9%A6%86)
 
 版权说明：该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。详细版权说明。
 
