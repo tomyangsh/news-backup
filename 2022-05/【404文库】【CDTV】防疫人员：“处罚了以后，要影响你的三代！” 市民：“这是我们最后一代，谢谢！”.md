@@ -12,7 +12,7 @@ CDT 档案卡
 
 发表日期：2022.5.11
 
-来源：<a href="https://chinadigitaltimes.net/chinese/feed)
+来源： 微信公众号“张敏新号”
 
 主题归类：<a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85)
 
@@ -34,11 +34,35 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
  这是我们最后一代，谢谢！” 
 
-网友纷纷转发这段视频，以表达不婚不育的倡议，反抗政府要求民众生三胎的宣传。
+网友纷纷转发这段视频并留言，表达从三胎政策到领导干部终生制的不满与抗议。
 
 视频来源：微信频道号“张敏新号”，但原作者不明。目前，该视频已经遭到删除。
 
 
+
+以下言论由中国数字时代编辑从网络收集：
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/signal-2022-05-12-021005_001.jpeg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/File-2.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/IMG_3132.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/IMG_3134.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/屏幕截图-2022-05-11-131240.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/006GUPURgy1h2503yotosj30u01uoq5d.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/006PR7MEly1h24um8ww3oj319o2yo1kx.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/0075l9hNly1h25403ij3gj30wi0iawgd.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/0075l9hNly1h25403qgzyj30u01uoq73.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/0075l9hNly1h25404scupj30wi1jxqbj.jpg)
+
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/7645c38bly1h2508g3y05j20dt0dpq3i.jpg)
 
 
 
