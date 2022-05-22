@@ -4,6 +4,18 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
+
+
+
+
+
+
+
+
+
+
+
+
 CDT 档案卡
 
 标题：【网络民议】“gj要求今天清零” #北京南新园集中隔离#
