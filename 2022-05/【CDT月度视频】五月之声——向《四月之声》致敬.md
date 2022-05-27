@@ -1,8 +1,8 @@
 # 【CDT月度视频】五月之声——向《四月之声》致敬
 
-2022-05-26
+2022-05-27
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '![GitHub](https://chinadigitaltimes.net/chinese/files/2022/05/五月之声-社交媒体-768x432.jpg)
 
 谨以此片向《四月之声》致敬。本项目将持续下去，直到《四月之声》及同类影片在中国解禁。
 
@@ -12,7 +12,7 @@
 
 
 
-您可以在文末查看视频素材原片
+您可以在文末查看素材原片，标注时间为视频收录时间
 
 中国数字时代为《四月之声》制作了英文字幕版本：
 
