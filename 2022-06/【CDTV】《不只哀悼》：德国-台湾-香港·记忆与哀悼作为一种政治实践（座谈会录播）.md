@@ -2,9 +2,9 @@
 
 2022-06-15
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '6月14日，台湾沃时文化x飞地书店举办了一场以郑安齐新作《不只哀悼—如果记忆有形状》为基础的新书座谈会。除了作者郑安齐，六四记忆人权博物馆总策展人长平以及飞地书店创办人张洁平，也参与了座谈。
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '![GitHub](https://chinadigitaltimes.net/chinese/files/2022/06/六四记忆人权博物馆-768x429.png)6月14日，台湾沃时文化x飞地书店举办了一场以郑安齐新作《不只哀悼—如果记忆有形状》为基础的新书座谈会。除了作者郑安齐，六四记忆人权博物馆总策展人长平以及飞地书店创办人张洁平，也参与了座谈。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2022/06/signal-2022-06-14-220418_001.jpeg)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2022/06/六四记忆人权博物馆.png)
 
 在此，我们转载此次座谈的录制视频及介绍。
 
