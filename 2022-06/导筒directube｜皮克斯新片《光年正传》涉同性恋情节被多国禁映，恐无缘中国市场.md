@@ -4,6 +4,10 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
+
+
+
+
 CDT 档案卡
 
 标题：皮克斯新片《光年正传》涉同性恋情节被多国禁映，恐无缘中国市场
