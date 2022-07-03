@@ -10,6 +10,16 @@
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2022/07/image-1656778129040.png)
 
+补充：（有推特网友分享了这段内容的原音频，发布时间为2020年12月）
+
+
+
+喜马拉雅FM还可以听到：https://t.co/P3HaZtH07z
+
+&mdash; Alan Lin (@AlanLin99794871) July 2, 2022
+
+
+
 一些视频可正常搜索、访问：
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2022/07/image-1656778536468.png)
