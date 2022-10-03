@@ -2,7 +2,7 @@
 
 2022-10-01
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '![GitHub](https://chinadigitaltimes.net/chinese/files/2022/10/面店封面.png)
 
 CDT 档案卡
 
@@ -17,6 +17,8 @@ CDT 档案卡
 CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A6%86)
 
 版权说明：该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。详细版权说明。
+
+
 
 
 
@@ -67,10 +69,6 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 博主：抖音平台它会审核，如果说违规，它会不让上去的，明白吧？这个你懂吗？
 
 匿名人：抖音平台，抖音平台假设它能审核的话，它审核的也是其他的一些事情，但对于这种特别敏感的话题，你不能发，你不是记者，你代表不了&#8230;（视频结束）
-
-
-
-
 
 以下为中国数字时代编辑摘自网民评论：
 
