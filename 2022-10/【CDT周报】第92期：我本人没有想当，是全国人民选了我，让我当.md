@@ -2,9 +2,21 @@
 
 2022-10-24
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '上期周报：【CDT周报】第91期：他从城墙中凿开一块最坚硬的砖，成为了暴风雨的第一个音符
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '![GitHub](https://chinadigitaltimes.net/chinese/files/2022/10/周报1017-23-768x768.png)上期周报：【CDT周报】第91期：他从城墙中凿开一块最坚硬的砖，成为了暴风雨的第一个音符
 
 本周中国数字时代【404文库】新增文章5篇，【每日一语】新增网语6条，【大事记】收录热点事件1条，刊登读者投稿2篇，投稿请点此。
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
