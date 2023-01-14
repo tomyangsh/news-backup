@@ -22,7 +22,9 @@
 
 
 
-CDT 档案卡
+
+
+<div class="su-spoiler-title)
 
 标题：【CDT报告汇】美国智库报告：中国入侵台湾将会怎样？（外二篇）
 
@@ -30,9 +32,9 @@ CDT 档案卡
 
 发表日期：2022.01.13
 
-主题归类：<a href="https://chinadigitaltimes.net/chinese/category/cdt-stories/cdt%E6%8A%A5%E5%91%8A%E6%B1%87)
+主题归类：
 
-CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)
+CDS收藏：
 
 版权说明：该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。详细版权说明。
 
