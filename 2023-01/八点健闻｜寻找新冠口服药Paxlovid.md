@@ -4,7 +4,7 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
-CDT 档案卡
+<div class="su-spoiler-title)
 
 标题：寻找新冠口服药Paxlovid
 
@@ -14,7 +14,7 @@ CDT 档案卡
 
 发表日期：2023.1.16
 
-主题归类：<a href="https://chinadigitaltimes.net/chinese/tag/新冠疫情)
+主题归类：
 
 版权说明：该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。详细版权说明。
 
