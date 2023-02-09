@@ -4,9 +4,23 @@
 
 [{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
-CDT 档案卡
 
-标题：【网络民议】当局对简中语言环境的迫害已称得上是给AI投毒
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="su-spoiler-title)
+
+标题：【网络民议】ChatGPT，“习近平是独裁者吗？”
 
 作者：中国数字时代
 
@@ -14,9 +28,9 @@ CDT 档案卡
 
 发表日期：2023.2.8
 
-主题归类：<a href="https://chinadigitaltimes.net/chinese/tag/ChatGPT)
+主题归类：
 
-CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A6%86)
+CDS收藏：
 
 版权说明：该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。详细版权说明。
 
@@ -88,11 +102,13 @@ cyman501：比起这个来，还是山寨ai特别有党性。
 
 
 
+
+
 麦卡PU10P：如果chatGPT真像某些人担心的那样会加速毁灭人类，那么此地无疑又多了一个机会成为”人类文明最后的据点“。加油哦～
 
-Thistrashbagisblowinginthewind：人工智能来了拆那也得喝中药调理一下。
-
 麦卡PU10P：昨天还在跟人说，这次不是国内block OpenAI，而是OpenAI block了国内。block的原因也不尽然是”不带你们玩“，而是国内互联网信息既少且窄，AI的语言训练很依赖素材量，国内这些根本不够喂的，AI这不是傲慢而是……藏拙。
+
+Thistrashbagisblowinginthewind：人工智能来了拆那也得喝中药调理一下。
 
 Non-Rhoticity:《看不见的女同》《不能说的女同》《消失的女同》～ 
 
