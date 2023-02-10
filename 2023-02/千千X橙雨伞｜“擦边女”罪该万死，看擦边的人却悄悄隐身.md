@@ -28,9 +28,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 作为一名网红主播，狗头萝莉平时服装打扮都比较性感，不少网友都认为她属于靠贩卖色情挣钱的“网黄”，所以当她讲述自己被亲生父亲猥亵、被电子厂组长性侵、被平台剥削欺骗、被前男友偷露私密视频上传网络、找律师跟前男友打官司反被性侵时，遭到了很多人的嘲讽与谩骂。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fa4b55.png)
-
-狗头萝莉在近期微博中透露出轻生意愿，引发广泛关注。
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fa4b55.png)狗头萝莉在近期微博中透露出轻生意愿，引发广泛关注。
 
 即使在狗头萝莉表露出轻生倾向的视频下，还是有很多人在评论“她搞这套也不是第一次了”“可她就是擦边女啊”“她自己愿意自轻自贱”“怎么天下倒霉事都让你遇到了”“一听就是编的”……把狗头萝莉的疼痛过往当成茶余饭后的谈资。
 
@@ -40,9 +38,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fae3a9.png)
 
-面对擦边，
-
-舆论众说纷纭
+面对擦边，舆论众说纷纭
 
 其实就我个人而言，比起知道“什么是擦边”，我更早了解到的是“什么会被判定为擦边”。
 
@@ -50,9 +46,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 而不同的人对“擦边”标准和界限的判断也不尽相同，其好似皇帝的新衣，有些人看得见有些人看不见。当万事万物都可以被判定为“擦边”时，就不得不令人怀疑，“擦边”是否真的存在。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fb87fb.)
-
-图 / 微博
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fb87fb.)图 / 微博
 
 认为“擦边”这项指控的存在并非没有道理的人们，通常分为两派：一派认为擦边确实存在，而且无处不在；另一派认为“性感”不等于“擦边”，但具有目的性的色情贩卖当然是擦边。
 
@@ -62,9 +56,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 而后者的相关讨论，相对来说就有意思得多，且在微博上很为常见。这些网友认为，判断这些图频信息是否意在擦边，首先要看对方拿不拿这个挣钱。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fc669c.)
-
-图 / 小红书
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fc669c.)图 / 小红书
 
 如果对方是靠“卖弄姿色”，故意打色情擦边球吸引流量，然后借此变现，那就算擦边。不仅不能给关注，而且要与之割席。因为“擦边女”已经成为很多人用来攻击女性的武器，如果女性自己不从内部消灭这部分贩卖色情的擦边女，那会有更多女性因此等污名受辱，丧失“性感”的权利。
 
@@ -74,9 +66,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 所以像狗头萝莉这种自述从来没卖过“擦边”图包，但希望通过秀身材换来更多喜爱和关注，并且坦然承认自己“媚男”的女性，在ta们眼里属于自主自愿选择了“擦边”，同时犯了“荡妇罪”和“媚男罪”，不值得任何正义与理解。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fd4121.)
-
-某微博男大V评狗头萝莉事件。
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4772fd4121.)某微博男大V评狗头萝莉事件。
 
 但说到这里，谁在看擦边？谁在为擦边消费？谁拥有鉴擦边的权力？以及，谁在制造“边”？……这些都被忽视了。
 
@@ -118,9 +108,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 这么前后一分析，女性反抗“擦边审判”的突破口也就显而易见了。那就是在看清“擦边”背后的权力关系的基础上，不再赋予审判者鉴别我们是否擦边的权力，让这项罪名失效。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e477300b75f.)
-
-在博主@蟹珍珍whale 发出的这条投稿下，高赞评论表示，“女的少去鉴擦边咯”“女性少用男的创造出来对女性不友善的词”。
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e477300b75f.)在博主@蟹珍珍whale 发出的这条投稿下，高赞评论表示，“女的少去鉴擦边咯”“女性少用男的创造出来对女性不友善的词”。
 
 其实现在已经有很多姐妹这么做了，她们会自己发图发视频然后配文“擦边”，也会在别的博主的评论区下留言“擦边我爱看”，调侃和消解这个词原本暗含的厌女意义。当人们不再在乎这些罪名，那“罪名”就不会产生“惩罚”，其规训和离间女性的意义自然会消失。
 
@@ -128,9 +116,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A
 
 毕竟，只要罪名编织完毕，受害者只会源源不断。正如擦边一般，只要这项罪名始终成立，那么任何人，尤其是任何女性，都可能是受害者。
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4773018482.)
-
-图 / 小红书
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/02/post-692782-63e4773018482.)图 / 小红书
 
 生而为女，这个性别有太多罪状，一个人头顶可能有七八顶帽子，所以在过去，我们常常能观察到：不少人为了避免自我价值的贬损，会选择与那些有污名的女性划清关系，并且声称“我不厌女，我就是讨厌不洁身自好的人”。
 
