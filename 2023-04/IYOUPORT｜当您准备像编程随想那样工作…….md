@@ -48,7 +48,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 在安全方面，中国的前线工作者有两个方面的弱点，比较严重：
 
-—— 第1个弱点：对对手的了解不足 ——\xa0
+—— 第1个弱点：对对手的了解不足 ——
 
 您肯定知道 “知己知彼” 这一重要的战术智慧。您的对手拥有巨大的特权、充足的预算、无下限的卑劣，以做到长期、持续、深入地了解您，甚至可以预测您的行为。而您对他们了解多少呢？
 
@@ -108,7 +108,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 第一步
 
-![GitHub](https://chinadigitaltimes.net/chinese/files/2023/04/image-1680347038186.png)
+![GitHub](https://chinadigitaltimes.net/chinese/files/2023/04/image-1680388263240.png)
 
 第二步
 
@@ -178,7 +178,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 阮先生的文章中提供的安全建议大多是结论。对于安全知识的初学者来说，这有可能造成一些误会，认为只要完全照着做就行了。并不是的。如果您在阅读后没有进行分析，那对于阮先生的工作来说是一种浪费。
 
-2\xa0
+2
 
 分身只是把敏感的那部分隔离出去就行了吗？当然不是。
 
