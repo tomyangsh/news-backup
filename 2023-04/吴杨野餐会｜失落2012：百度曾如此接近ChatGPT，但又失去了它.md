@@ -46,9 +46,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 ![GitHub](https://chinadigitaltimes.net/chinese/files/2023/04/post-694814-64353b6a84713.png)
 
-01
-
-船票
+01. 船票
 
 一条不起眼的新闻标题，引起了百度技术主管余凯的注意。
 
@@ -114,9 +112,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 他要让百度在谷歌、微软这些美国科技巨头反应过来之前，抢先完成和辛顿的这笔交易。
 
-02
-
-愚蠢？聪明？
+02. 愚蠢？聪明？
 
 余凯和百度的慷慨让辛顿吃了一惊。
 
@@ -154,9 +150,7 @@ CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A
 
 以谷歌、微软为代表的美国科技巨头，即将登陆战场。
 
-03
-
-角斗
+03. 角斗
 
 一场秘密拍卖会正在举行。
 
@@ -240,9 +234,7 @@ DeepMind选择退出。
 
 但对百度和谷歌来说，这注定是个不眠之夜。
 
-04
-
-消失在时间线
+04. 消失在时间线
 
 拍卖在第二天一早戛然而止。
 
@@ -298,7 +290,7 @@ ChatGPT2个月狂卷1亿用户，成为有史以来用户增长最快的消费�
 
 参考文献：
 
-[1]Genius Makers：The Mavericks Who Brought AI to Goolge, Facebook, and the World,\xa0Cade Metz\u200d\u200d\u200d\u200d\u200d\u200d\u200d\u200d\u200d\u200d
+[1]Genius Makers：The Mavericks Who Brought AI to Goolge, Facebook, and the World,\xa0Cade MetZ
 
 [2]U of T professor Geoffrey Hinton hailed as guru of new computing era，The Globe And Mail
 
