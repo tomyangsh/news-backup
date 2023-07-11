@@ -28,7 +28,7 @@ CDT 档案卡
 
 来源：<a href="https://web.archive.org/web/https://mp.weixin.qq.com/s/0Rxcl0Utn0KrKBwkOnT-WA)
 
-主题归类：<a href="https://chinadigitaltimes.net/space/%E6%B3%95%E5%BE%8B)
+主题归类：<a href="https://chinadigitaltimes.net/space/%E5%90%89%E6%9E%97%E7%A7%81%E6%90%AD%E6%B5%AE%E6%A1%A5%E6%A1%88)
 
 CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)
 
