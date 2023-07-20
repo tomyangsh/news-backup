@@ -2,7 +2,7 @@
 
 2023-07-20
 
-[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': 'https://youtu.be/etKU7_3V10E 
+[{'type': 'text/html', 'language': None, 'base': 'https://chinadigitaltimes.net/chinese/feed', 'value': '
 
 2023年4月开始，中文互联网上开始流传“四不青年”的说法，它指的是当下“不找对象、不结婚、不买房、不要孩子”的中国青年，与此前的网络热门语“躺平主义”有相似之处。
 
