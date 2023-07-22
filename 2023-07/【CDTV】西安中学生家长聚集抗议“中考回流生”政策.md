@@ -16,7 +16,7 @@ CDT 档案卡
 
 来源：<a href="https://chinadigitaltimes.net/space/微博)
 
-主题归类：<a href="https://chinadigitaltimes.net/space/教育制度)
+主题归类：<a href="https://chinadigitaltimes.net/space/教育歧视)
 
 CDS收藏：<a href="https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)
 
