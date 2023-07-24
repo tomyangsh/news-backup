@@ -4,6 +4,7 @@ import feedparser
 import os
 import time
 import markdownify
+import re
 
 from bs4 import BeautifulSoup
 
@@ -18,9 +19,10 @@ for post in a.entries:
     soup.a.decompose()
     if soup.find_all('div', {'class': 'su-spoiler-title'}):
         soup.find_all('div', {'class': 'su-spoiler-title'})[0].decompose()
+    md = re.sub(r'(\*\*.+\*\*)', r'\1 ', markdownify.markdownify(str(soup)))
     directory = str(time.strftime("%Y-%m", time_published))
     if not os.path.exists(directory):
         os.makedirs(directory)
     with open(directory + '/' + title, "w") as file:
-        file.write(markdownify.markdownify(str(soup)))
+        file.write(md)
 
