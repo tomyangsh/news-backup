@@ -11,20 +11,20 @@
 
 
 
-**标题：**【CDT报告汇】中国劳工通讯：疫情后罢工抗议创新高（外二篇）  
+**标题：** 【CDT报告汇】中国劳工通讯：疫情后罢工抗议创新高（外二篇）  
 
-**作者：**中国数字时代  
+**作者：** 中国数字时代  
 
-**发表日期：**2023.7.22  
+**发表日期：** 2023.7.22  
 
-**主题归类：**[CDT报告汇](https://chinadigitaltimes.net/chinese/category/cdt-stories/cdt%E6%8A%A5%E5%91%8A%E6%B1%87)  
+**主题归类：** [CDT报告汇](https://chinadigitaltimes.net/chinese/category/cdt-stories/cdt%E6%8A%A5%E5%91%8A%E6%B1%87)  
 
-**CDS收藏：**[公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
+**CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
-**版权说明：**该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。[详细版权说明](https://chinadigitaltimes.net/chinese/copyright)。
+**版权说明：** 该作品版权归原作者所有。中国数字时代仅对原作进行存档，以对抗中国的网络审查。[详细版权说明](https://chinadigitaltimes.net/chinese/copyright)。
 
 
-**中国数字时代本周推荐媒体：**
+**中国数字时代本周推荐媒体：** 
 
 
 [法庭线|香港47人案](https://thewitnesshk.com/%e5%af%a6%e6%99%82%e6%9b%b4%e6%96%b0-47%e4%ba%ba%e6%a1%88-%e7%ac%ac86%e6%97%a5%e5%af%a9%e8%a8%8a-%e4%bd%95%e6%a1%82%e8%97%8d%e9%96%8b%e5%a7%8b%e4%bd%9c%e4%be%9b/)：47 名香港民主派被控“串谋颠覆国家政权”罪一案，于7月18 日展开第 86 日审讯。独立媒体“法庭线”进行全程追踪报道。
