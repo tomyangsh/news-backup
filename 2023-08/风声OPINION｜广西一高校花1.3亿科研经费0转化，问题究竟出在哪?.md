@@ -8,7 +8,7 @@
 
 **来源：** [微信公众号“风声OPINION”](https://web.archive.org/web/https://mp.weixin.qq.com/s/2tjkySUQVWUJnqZEWsTOVg)  
 
-**主题归类：** [中国学术](https://chinadigitaltimes.net/space/中国学术)  
+**主题归类：** [公共资金浪费](https://chinadigitaltimes.net/space/公共资金浪费)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
