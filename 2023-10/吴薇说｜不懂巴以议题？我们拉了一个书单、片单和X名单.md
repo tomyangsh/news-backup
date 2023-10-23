@@ -5,7 +5,7 @@
 
 **标题：** 不懂巴以议题？我们拉了一个书单、片单和X名单  
 
-**作者：** [大声编辑部](https://chinadigitaltimes.net/space/大声编辑部)  
+**作者：** [吴薇说](https://chinadigitaltimes.net/space/吴薇说)  
 
 **发表日期：** 2023.10.19  
 
