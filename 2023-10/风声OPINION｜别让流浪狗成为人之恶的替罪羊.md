@@ -35,7 +35,7 @@
 
 **来源：** [微信公众号“风声OPINION”](https://web.archive.org/web/https://mp.weixin.qq.com/s/wMoLWnL_V3WWREgciLDgrA)  
 
-**主题归类：** [动物保护](https://chinadigitaltimes.net/space/动物保护)  
+**主题归类：** [成都女童被恶犬咬伤事件](https://chinadigitaltimes.net/space/成都女童被恶犬咬伤事件)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
