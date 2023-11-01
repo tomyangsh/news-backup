@@ -9,9 +9,9 @@ import re
 from bs4 import BeautifulSoup
 
 #China Digital Times
-a = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
+feed = feedparser.parse('https://chinadigitaltimes.net/chinese/feed/')
 
-for post in a.entries:
+for post in feed.entries:
     time_published = post.published_parsed
     title = post.title + '.md'
     content = post.content[0].value

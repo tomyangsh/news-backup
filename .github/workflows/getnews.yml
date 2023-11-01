@@ -10,20 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        cache: 'pip'
-    - run: pip install -r requirements.txt
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: pull news
-      run: python getnews.py
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
 
-    - name: push
-      run: |
-        git config --local user.name "actions"
-        git config --local user.email "action@github.com"
-        git add *
-        git commit -m "sync"
-        git push
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set variables
+        run: echo "DATE=$(date +%Y%m%d)" >> $GITHUB_ENV
+
+      - name: Pull news
+        run: python getnews.py
+
+      - name: Push
+        continue-on-error: true
+        run: |
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git add *
+          git commit -m "${{ env.DATE }}"
+          git push
