@@ -22,7 +22,13 @@
 
 
 ![img](https://chinadigitaltimes.net/chinese/files/2023/11/image-1698926711836.png)Clash for Windows作者@Fndroid 在个人电报频道发布的声明。
-据 Clash 的开发者[介绍](https://clash.wiki/)，Clash 是一个跨平台的基于规则的代理工具，在网络和应用程序层运行，支持各种代理和反审查协议，在一些互联网受到严格审查或封锁的国家和地区被广泛采用。Clash 也是目前翻墙机场适配最广泛的代理工具之一，网络上有多个版本的 Clash 教程与[使用指南](https://jiasupanda.com/clash-how-to)。
+据Clash的开发者[介绍](https://clash.wiki/)，Clash是一个跨平台的基于规则的代理工具，在网络和应用程序层运行，支持各种代理和反审查协议，在一些互联网受到严格审查或封锁的国家和地区被广泛采用。Clash其客户端程序的开发呈现出百花齐放的状态，如Clash for Windows、Clash X、Clash Verge、Clash for Android等都是带有图形界面（GUI）的知名翻墙客户端。正因其功能强大易用，客户端的适用平台广泛，目前Clash也是各大机场最广泛采用的代理工具之一，网络上有多个版本的 Clash 教程与[使用指南](https://jiasupanda.com/clash-how-to)。
+
+
+然而，随着Clash内核项目的停更（开发者为 @Dreamacro），所有依赖Clash内核进行二次开发的项目失去了根基，这也意味着整个Clash翻墙工具生态或将面临死亡。
+
+
+![filev](https://chinadigitaltimes.net/chinese/files/2023/11/image-1699096706256.png)
 
 
 据中国数字时代读者投稿及编辑核查，目前已知受到影响的项目如下：
