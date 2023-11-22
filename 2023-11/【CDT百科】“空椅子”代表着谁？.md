@@ -10,7 +10,7 @@
 
 **发表日期：** 2023.11.21  
 
-**主题归类：** [刘晓波](https://chinadigitaltimes.net/space/刘晓波)  
+**主题归类：** [空椅子](https://chinadigitaltimes.net/space/空椅子)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
