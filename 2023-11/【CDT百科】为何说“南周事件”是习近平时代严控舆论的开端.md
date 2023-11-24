@@ -99,6 +99,21 @@
 ![img](https://chinadigitaltimes.net/chinese/files/2023/11/南方周末抗议.jpeg)
 
 
+
+
+**标题：** 【CDT百科】为何说“南周事件”是习近平时代严控舆论的开端  
+
+**作者：** 中国数字时代  
+
+**发表日期：** 2023.11.24  
+
+**主题归类：** [南周事件](https://chinadigitaltimes.net/space/南周事件)  
+
+**CDS收藏：** [话语馆](https://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E9%A6%86)  
+
+**版权说明：** 该作品版权归中国数字时代所有，欢迎个人、媒体和研究机构在注明来源的前提下免费使用。[详细版权说明](https://chinadigitaltimes.net/chinese/copyright)。
+
+
 另一方面，当时正在中共领导班子换届，新官上任的习近平高调打出“反腐倡廉”的口号。许多中国百姓和分析员“天真”地以为，习能为中国带来“焕然一新”的改变。因此，许多人曾希望南周事件能够成为一个契机，为中国的新闻自由带来不一样的声音。
 
 
