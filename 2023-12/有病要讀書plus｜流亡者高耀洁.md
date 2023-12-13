@@ -7,7 +7,7 @@
 
 **标题：** 流亡者高耀洁  
 
-**作者：**  [仙桃爸](https://chinadigitaltimes.net/space/有病要讀書plus)  
+**作者：**  [仙桃爸](https://chinadigitaltimes.net/space/有病要读书plus)  
 
 **发表日期：** 2023.12.12  
 
