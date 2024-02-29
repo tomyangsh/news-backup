@@ -25,7 +25,7 @@
 
 **来源：** [微信公众号“法度Law”](https://web.archive.org/web/20240227144846/https://mp.weixin.qq.com/s/Z_37nyhhvj3AU531ERYWSA)  
 
-**主题归类：** [政府丑闻](https://chinadigitaltimes.net/space/政府丑闻)  
+**主题归类：** [以刑化债](https://chinadigitaltimes.net/space/以刑化债)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
