@@ -14,7 +14,7 @@
 
 **来源：** [微信公众号“凤凰WEEKLY”](https://web.archive.org/web/20240326145731/https://mp.weixin.qq.com/s/2TnHHmYnnxRo2kWMgm0orw)  
 
-**主题归类：** [医疗体制](https://chinadigitaltimes.net/space/医疗体制)  
+**主题归类：** [曹丽萍](https://chinadigitaltimes.net/space/曹丽萍)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
