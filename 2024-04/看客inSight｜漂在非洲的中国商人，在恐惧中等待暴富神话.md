@@ -32,7 +32,7 @@
 
 **来源：** [微信公众号“看客inSight”](https://web.archive.org/web/https://mp.weixin.qq.com/s/PwVdHK6nWq31XGCGFsmJWw)  
 
-**主题归类：** [标签名称](https://chinadigitaltimes.net/space/)  
+**主题归类：** [一带一路](https://chinadigitaltimes.net/space/一带一路)  
 
 **CDS收藏：** [公民馆](https://chinadigitaltimes.net/space/%E5%85%AC%E6%B0%91%E9%A6%86)  
 
