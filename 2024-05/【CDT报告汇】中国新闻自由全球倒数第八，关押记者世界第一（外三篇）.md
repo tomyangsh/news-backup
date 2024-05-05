@@ -21,7 +21,10 @@
 
 
 
-> [【404媒体】Zlibrary Official](https://chinadigitaltimes.net/chinese/707420.html): Z-Library是一个在线数据库，提供数千万本盗版和未经审查的书籍和文章供免费下载。2024年4月30日，Z-Library在官方微信号上宣布注销所有“中国大陆社交账户”。在微信发布的声明中，Z-Library 称中国司法机关对其网站、捐助及社交媒体运营志愿者进行了“打击”，并暗示原因是他们拒绝遵守审查要求。该声明似乎还鼓励中国用户使用VPN（或其他 "科学 "手段）进行访问。
+> [媒体支持——香港自由新聞](https://hongkongfp.com/2024/05/03/press-freedom-day-15-ways-to-support-hkfp-and-why-we-need-your-help-in-2024/)：香港自由新聞 (Hong Kong Free Press, HKFP) 是香港首家线上英文媒体。该媒体以客观、独立和勇敢而著称，曾获得亚洲出版业协会 (The Society of Publishers in Asia, SOPA) 颁发的卓越解释性报道奖项 (Excellence in Explanatory Reporting) 在内的多个奖项。
+> 
+> 
+> 2024年世界新闻日当天，[HKFP发起媒体支持活动，希望可以继续为读者报道独立、客观的新闻](https://hongkongfp.com/2024/05/03/press-freedom-day-15-ways-to-support-hkfp-and-why-we-need-your-help-in-2024/)。
 
 
 一、世界新闻自由水平下降
