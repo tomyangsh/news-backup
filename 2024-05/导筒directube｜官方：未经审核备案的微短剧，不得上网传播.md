@@ -8,7 +8,7 @@
 
 **来源：** [导筒directube](https://web.archive.org/web/https://mp.weixin.qq.com/s/5c5ZNiMrdsXrdC1fJJmYsQ)  
 
-**主题归类：** [词条名](https://chinadigitaltimes.net/space/词条名)  
+**主题归类：** [网络审查](https://chinadigitaltimes.net/space/网络审查)  
 
 **CDS收藏：** [真理馆](https://chinadigitaltimes.net/space/%E7%9C%9F%E7%90%86%E9%A6%86)  
 
