@@ -9,7 +9,8 @@
 **来源：** [instagram](https://www.instagram.com/p/C8UVxniJpfW/?igsh=MWQ1ZGUxMzBkMA%3D%3D)  
 
 **主题归类：** [黄雪琴](https://chinadigitaltimes.net/space/黄雪琴)  
-、**主题归类：** [王建兵](https://chinadigitaltimes.net/space/王建兵)  
+
+**主题归类：** [王建兵](https://chinadigitaltimes.net/space/王建兵)  
 
 **CDS收藏：** [人物馆](https://chinadigitaltimes.net/space/%E4%BA%BA%E7%89%A9%E9%A6%86)  
 
